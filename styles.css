@@ -1,4 +1,5 @@
 body{
-    background-color: #ffe6e6;
+background: rgb(230,242,255);
+background: linear-gradient(90deg, rgba(230,242,255,1) 38%, rgba(102,153,153,1) 71%, rgba(0,102,77,1) 100%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
