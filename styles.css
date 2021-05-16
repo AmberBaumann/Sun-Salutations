@@ -54,3 +54,13 @@ h2{
     width: 100%;
     font-size: 2em;
 }
+
+.circle {
+    border: 2px solid #003325;
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+   position: absolute;
+   top: 48%;
+   right: 56.75%
+}
