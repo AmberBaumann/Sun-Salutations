@@ -8,12 +8,49 @@ body{
 }
 
 h1{
-    left: 0;
+    color: #003325;
+    right: 25%;
+    top: 25%;
     line-height: 200px;
     margin-top: -100px;
     position: absolute;
     text-align: center;
-    top: 25%;
     width: 100%;
     font-size: 4em;
+}
+
+h2{
+    color: #003325;
+    right: 30.5%;
+    top: 32%;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 2em;
+}
+
+#h2two{
+    color: #003325;
+    right: 33.4%;
+    top: 35.5%;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 2em;
+}
+
+#chooseyourpractice{
+    color: #003325;
+    right: 15%;
+    top: 55%;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 2em;
 }
