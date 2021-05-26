@@ -7,43 +7,23 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-h1{
-    color: #003325;
-    right: 25%;
-    top: 25%;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    font-size: 4em;
-}
 
-h2{
-    color: #003325;
-    right: 30.5%;
-    top: 32%;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    font-size: 2em;
-}
-
-#h2two{
-    color: #003325;
-    right: 33.4%;
-    top: 35.5%;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    font-size: 2em;
-}
+    h1{
+        color: #003325;
+        font-size: calc(3em + 3vw);
+        display: flex;
+        justify-content:center;
+    }
 
 #chooseyourpractice{
+    color: #003325;
+    font-size: calc(1em + 2vw);
+    display:flex;
+    justify-content: center;
+}
+
+
+/* #chooseyourpractice{
     color: #003325;
     right: 15%;
     top: 55%;
@@ -53,17 +33,22 @@ h2{
     text-align: center;
     width: 100%;
     font-size: 2em;
-}
+} */
 
-.circle {
+
+/* .circle1 {
     border: 2px solid #003325;
     border-radius: 50%;
-    width: 125px;
-    height: 125px;
-   position: absolute;
-   top: 49%;
-   right: 56.75%
-}
+    width: 150px;
+    height: 150px;
+   display:flex;
+   position:absolute;
+   left: 0;
+   right:0;
+   margin: auto;
+} */
+
+
 
 #chairmountainpose{
     border-radius: 50%;
