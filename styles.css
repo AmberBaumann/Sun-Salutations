@@ -78,4 +78,19 @@ body{
     justify-content: space-evenly;
 }
 
+a{
+    background-color:#00664d;
+    color:#FFE6E6;
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+    display: flex;
+    padding: 20px;
+    
 
+}
+
+a:hover, a:active{
+    background-color:#e6f2ff;
+    color:#003325;
+}
