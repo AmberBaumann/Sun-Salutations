@@ -4,3 +4,11 @@ body{
     background: #FFE6E6;
     font-family: 'Open Sans', sans-serif;
 }
+
+
+h1{
+    color: #003325;
+    font-size: calc(3em + 3vw);
+    display: flex;
+    justify-content:center;
+}
