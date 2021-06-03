@@ -22,6 +22,10 @@ h1{
   margin: auto;
 }
 
+.images{
+  border-radius: 25px;
+}
+
 /* Next & previous buttons */
 .prev, .next{
   cursor: pointer;
@@ -60,10 +64,11 @@ h1{
   font-size: 20px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 0px;
   width: 100%;
   text-align: center;
   background-color: #003325;
+  border-radius: 25px;
 }
 
 /* number text */
@@ -74,6 +79,7 @@ h1{
   position: absolute;
   top: 0;
   background-color: #003325;
+  border-radius: 25px;
 }
 
 /* dots indicators */
