@@ -64,8 +64,9 @@ h1{
   font-size: 18px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 0px;
+  bottom: 5px;
   width: 100%;
+  align-items: center;
   text-align: center;
   background-color: #003325;
   border-radius: 25px;
@@ -125,3 +126,5 @@ h1{
 @media only screen and (max-width: 300px){
   .prev, .next, .captiontext {font-size: 11px;}
 }
+
+/* background blur on caption text */
