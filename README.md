@@ -15,6 +15,6 @@
         * This was handled utilizing the srcset attribute and pivoting the image display approach. Initially images were styled as expanding cards but I decided to use a slideshow instead so that not all images would be loaded at once. 
 
 ## Wireframes
- ![Wireframe 1](/Images/Screenshot(90).png)
- ![Wireframe 1](/Images/Screenshot(91).png)
- ![Wireframe 1](/Images/Screenshot(92).png)
+ * ![Wireframe 1](Images/Screenshot(90).png)
+ * ![Wireframe 1](Images/Screenshot(91).png)
+ * ![Wireframe 1](Images/Screenshot(92).png)
