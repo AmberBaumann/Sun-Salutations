@@ -1,5 +1,9 @@
 let slideIndex = 1;
+const toggle = document.getElementById('toggle');
+const nav = document.getElementById('nav');
 showSlides(slideIndex);
+
+toggle.addEventListener('click', () => nav.classList.toggle('active'))
 
 function plusSlides(n) {
     showSlides(slideIndex += n);
@@ -28,4 +32,6 @@ function showSlides(n) {
     slides[slideIndex - 1].style.display = "block";
     dots[slideIndex - 1].className += " active";
 }
+
+
 
