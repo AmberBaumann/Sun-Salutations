@@ -8,8 +8,7 @@ body{
     font-family: Arial, sans-serif;
 }
 
-
-    h1{
+ h1{
         color: #003325;
         font-size: calc(3em + 3vw);
         display: flex;
